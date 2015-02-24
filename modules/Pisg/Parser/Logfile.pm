@@ -653,6 +653,7 @@ sub _parse_words
 
         # Also ignore stuff from URLs.
         next if ($word =~ m/^https?$|^\/\//o);
+        next if ($word =~ /(https?|ftp)/);
 
         my $lcword = lc $word;
         $stats->{wordcounts}{$lcword}++;
@@ -754,10 +755,10 @@ sub _strip_mirccodes
     # underlinecode = chr(31) = oct 037
 
     # Strip mIRC color codes
-    $line =~ s/\003\d{1,2},\d{1,2}//go;
-    $line =~ s/\003\d{0,2}//go;
+    #$line =~ s/\003\d{1,2},\d{1,2}//go;
+    #$line =~ s/\003\d{0,2}//go;
     # Strip mIRC bold, plain, reverse and underline codes
-    $line =~ s/[\002\017\026\037]//go;
+    #$line =~ s/[\002\017\026\037]//go;
 
     return $line;
 }
