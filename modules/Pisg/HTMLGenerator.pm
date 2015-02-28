@@ -396,7 +396,7 @@ sub _activenicks
     $output .= "<td><strong>" . $self->_template_text('show_time') . "</strong></td>"     if ($self->{cfg}->{showtime});
     $output .= "<td><strong>Words</strong></td>"    if ($self->{cfg}->{showwords});
     $output .= "<td><abbr title=\"Words per line\">WPL</abbr></td>"      if ($self->{cfg}->{showwpl});
-    $output .= "<td><abbr title=\"Chars per line\">CPL</abbr></td>"      if ($self->{cfg}->{showcpl});
+    $output .= "<td><abbr title=\"Characters per line\">CPL</abbr></td>"      if ($self->{cfg}->{showcpl});
     $output .= "<td><strong>" . $self->_template_text('show_lastseen') . "</strong></td>" if ($self->{cfg}->{showlastseen});
     $output .= "<td><strong>" . $self->_template_text('randquote') . "</strong></td>"     if ($self->{cfg}->{showrandquote});
     
