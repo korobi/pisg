@@ -388,19 +388,19 @@ sub _activenicks
     $self->_headline($self->_template_text('activenickstopic'));
 
     my $output = "";
-    $output .= "<table><tr>";
-    $output .= "<td>&nbsp;</td>";
-    $output .= "<td><strong>" . $self->_template_text('nick') . "</strong></td>";
+    $output .= "<table><thead><tr>";
+    $output .= "<th>&nbsp;</th>";
+    $output .= "<th>" . $self->_template_text('nick') . "</th>";
 
-    $output .= "<td><strong>Lines</strong></td>"   if ($self->{cfg}->{showlines});
-    $output .= "<td><strong>" . $self->_template_text('show_time') . "</strong></td>"     if ($self->{cfg}->{showtime});
-    $output .= "<td><strong>Words</strong></td>"    if ($self->{cfg}->{showwords});
-    $output .= "<td><abbr title=\"Words per line\">WPL</abbr></td>"      if ($self->{cfg}->{showwpl});
-    $output .= "<td><abbr title=\"Characters per line\">CPL</abbr></td>"      if ($self->{cfg}->{showcpl});
-    $output .= "<td><strong>" . $self->_template_text('show_lastseen') . "</strong></td>" if ($self->{cfg}->{showlastseen});
-    $output .= "<td><strong>" . $self->_template_text('randquote') . "</strong></td>"     if ($self->{cfg}->{showrandquote});
+    $output .= "<th>Lines</th>"   if ($self->{cfg}->{showlines});
+    $output .= "<th>" . $self->_template_text('show_time') . "</th>"     if ($self->{cfg}->{showtime});
+    $output .= "<th>Words</th>"    if ($self->{cfg}->{showwords});
+    $output .= "<th><abbr title=\"Words per line\">WPL</abbr></th>"      if ($self->{cfg}->{showwpl});
+    $output .= "<th><abbr title=\"Characters per line\">CPL</abbr></th>"      if ($self->{cfg}->{showcpl});
+    $output .= "<th>" . $self->_template_text('show_lastseen') . "</th>" if ($self->{cfg}->{showlastseen});
+    $output .= "<th>" . $self->_template_text('randquote') . "</th>"     if ($self->{cfg}->{showrandquote});
     
-    $output .= "\n";
+    $output .= "</thead><tbody>\n";
 
     my @active;
     my $nicks;
@@ -531,7 +531,7 @@ sub _activenicks
         _html("</tr>");
     }
 
-    _html("</table><br />");
+    _html("</tbody></table><br />");
 
     # Almost as active nicks ('These didn't make it to the top..')
 
