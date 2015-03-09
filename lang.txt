@@ -83,7 +83,7 @@ shout2 = "Another <i>old yeller</i> was <b>[:nick]</b>, who shouted [:per]% of t
 shout3 = "Nobody shouted at all, wow."
 
 allcaps1 = "It seems that <b>[:nick]</b>'s shift-key is hanging:  [:per]% of the time [:he:she:] wrote UPPERCASE."
-allcaps2 = "<b>[:nick]</b> just forgot to deactivate [:his:her:] Caps-Lock.  [:He:She:] wrote UPPERCASE [:per]% of the time."
+allcaps2 = "<b>[:nick]</b> just forgot to deactivate [:his:her:] Caps Lock.  [:He:She:] wrote UPPERCASE [:per]% of the time."
 allcaps3 = "Everybody had their shift-key under control.  :)"
 allcapstext = "<b>For example, like this:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -123,7 +123,7 @@ short1 = "<b>[:nick]</b> wrote the shortest lines, averaging [:letters] characte
 short2 = "<b>[:nick]</b> was tight-lipped, too, averaging [:letters] characters."
 
 foul1 = "<b>[:nick]</b> has quite a potty mouth.  [:per]% words were foul language."
-foul2 = "<b>[:nick]</b> also makes sailors blush, [:per]% of the time."
+foul2 = "<b>[:nick]</b> also makes sailors blush [:per]% of the time."
 foul3 = "Nobody is foul-mouthed in [:channel]!  Get out much?"
 foultext = "<b>For example, like this:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -145,7 +145,7 @@ othernumtopic = "Other interesting numbers"
 latesttopic = "Latest Topics"
 activetimestopic = "Most active times"
 activenickstopic = "Most active nicks"
-activenickbyhourtopic = "Most active nicks by hours"
+activenickbyhourtopic = "Most active nicks by hour"
 mostwordstopic = "Most used words"
 referencetopic = "Most referenced nicks"
 smileytopic = "Smileys :-)"
@@ -169,7 +169,7 @@ url = "URL"
 numberlines = "Number of lines"
 randquote = "Random quote"
 userpic = "Userpic"
-nottop = "These didn't make it to the top:"
+nottop = "These people didn't make it to the top:"
 word = "Word"
 numberuses = "Number of Uses"
 show_words = "Number of Words"
@@ -252,7 +252,7 @@ shout2 = "Ein anderer <i>Schreihals</i> war <b>[:nick]</b>, [:der:die:] [:per]% 
 shout3 = "Niemand hat ein Ausrufezeichen benutzt, wow... Zurückhaltende User im Channel ;)"
 
 allcaps1 = "Anscheinend klemmte die Shift-Taste von <b>[:nick]</b>, denn [:per]% der Zeit schrieb [:er:sie:] in GROSSBUCHSTABEN."
-allcaps2 = "<b>[:nick]</b> hat auch wohl vergessen CAPS-Lock auszuschalten, von [:ihm:ihr:] kamen [:per]% der Zeit GROSSBUCHSTABEN."
+allcaps2 = "<b>[:nick]</b> hat auch wohl vergessen Caps Lock auszuschalten, von [:ihm:ihr:] kamen [:per]% der Zeit GROSSBUCHSTABEN."
 allcaps3 = "Alle hatten ihre Shift-Taste gut unter Kontrolle. :)"
 allcapstext = "<b>Zum Beispiel so:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -455,8 +455,8 @@ sad1 = "<b>[:nick]</b> er meget ked af det for tiden, [:per]% af linjerne havde 
 sad2 = "<b>[:nick]</b> er også en trist person, som græd [:per]% af tiden"
 sad3 = "Ingen er kede af det på [:channel]! Sikke en glad kanal :-)"
 
-allcaps1 = "Ser ud til at <b>[:nick]</b> har en voldsom trang til at råbe konstant, [:per]% af de gange [:han:hun:] skrev var med stort" 
-allcaps2 = "<b>[:nick]</b> glemte vidst at Caps-Lock var slået til, [:per]% af de gange [:han:hun:]han skrev var med stort"
+allcaps1 = "Ser ud til at <b>[:nick]</b> har en voldsom trang til at råbe konstant, [:per]% af de gange [:han:hun:] skrev var med stort"
+allcaps2 = "<b>[:nick]</b> glemte vidst at Caps Lock var slået til, [:per]% af de gange [:han:hun:]han skrev var med stort"
 allcaps3 = "Ser ud til at alle har deres shift under kontrol :)"
 allcapstext = "<b>For eksempel sådan her: </b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -589,9 +589,9 @@ shout1 = "[:Le:La:] plus bruyant[::e:(e):] est <b>[:nick]</b> qui gueule [:per]%
 shout2 = "<b>[:nick]</b> est aussi un[::e:(e):] <i>[:vieux raleur:mégère:]</i> qui braille [:per]% du temps !"
 shout3 = "Personne ne s'exclame ici, wow."
 
-allcaps1 = "Il semblerait que le CAPS-LOCK soit bloqué chez <b>[:nick]</b>, qui écrit en majuscules [:per]% du temps."
-allcaps2 = "<b>[:nick]</b> a oublié de désactiver son CAPS-LOCK, qui écrit en majuscules [:per]% du temps."
-allcaps3 = "Tous les CAPS-LOCK sont sous contrôle :)"
+allcaps1 = "Il semblerait que le Caps Lock soit bloqué chez <b>[:nick]</b>, qui écrit en majuscules [:per]% du temps."
+allcaps2 = "<b>[:nick]</b> a oublié de désactiver son Caps Lock, qui écrit en majuscules [:per]% du temps."
+allcaps3 = "Tous les Caps Lock sont sous contrôle :)"
 allcapstext = "<b>Exemple :</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 violent1 = "<b>[:nick]</b> est une personne agressive, qui a déja donné <b>[:attacks]</b> tapes à quelqu'un."
@@ -928,7 +928,7 @@ shout2 = "Na dalszej pozycji plasuje siÄ™ <b>[:nick]</b>, ktÃ³r[:y:a:] krzyczaÅ‚
 shout3 = "Wow, nikt nie krzyczaÅ‚, wszyscy jacyÅ› tacy spokojni..."
 
 allcaps1 = "WydawaÄ‡ by siÄ™ mogÅ‚o, Å¼e <b>[:nick]</b> ma zaciÄ™tego shifta, [:per]% czasu uÅ¼ywaÅ‚[::a:] wielkich liter."
-allcaps2 = "<b>[:nick]</b> za to zapomniaÅ‚[::a:] wyÅ‚Ä…czyÄ‡ Caps-Locka, [:per]% czasu uÅ¼ywaÅ‚[::a:] wielkich liter."
+allcaps2 = "<b>[:nick]</b> za to zapomniaÅ‚[::a:] wyÅ‚Ä…czyÄ‡ Caps Locka, [:per]% czasu uÅ¼ywaÅ‚[::a:] wielkich liter."
 allcaps3 = "Wszyscy posiadajÄ… kontrolÄ™ nad swoimi shiftami :)"
 allcapstext = "<b>Na przykÅ‚ad coÅ› takiego:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -990,7 +990,7 @@ othernumtopic = "Inne interesujÄ…ce liczby"
 latesttopic = "Ostatnie tematy"
 activetimestopic = "Najaktywniejsze pory dnia"
 activenickstopic = "Najaktywniejsze nicki"
-activenickbyhourtopic = "Najaktywniejsze nicki w przedziaÅ‚ach godzin" 
+activenickbyhourtopic = "Najaktywniejsze nicki w przedziaÅ‚ach godzin"
 mostwordstopic = "NajczÄ™Å›ciej uÅ¼ywane sÅ‚owa"
 referencetopic = "NajczÄ™Å›ciej wywoÅ‚ywany nick"
 urlstopic = "NajczÄ™Å›ciej wywoÅ‚ywany URL"
@@ -1097,7 +1097,7 @@ shout2 = "Outra <i>corneta</i> foi [:o:a:] <b>[:nick]</b>, que berrou [:per]% do
 shout3 = "Ninguém grita no canal, ena!"
 
 allcaps1 = "Parece que a tecla shift [:do:da:] <b>[:nick]</b> está presa:  Em [:per]% do tempo escreveu em MAIÚSCULAS!"
-allcaps2 = "<b>[:nick]</b> esqueceu-se de desligar o caps-lock. [:Ele:Ela:] escreveu em MAIÚSCULAS [:per]% do tempo."
+allcaps2 = "<b>[:nick]</b> esqueceu-se de desligar o Caps Lock. [:Ele:Ela:] escreveu em MAIÚSCULAS [:per]% do tempo."
 allcaps3 = "Toda a gente manteve as suas teclas shift sob controlo.  :)"
 allcapstext = "<b>Por exemplo:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -1266,7 +1266,7 @@ shout2 = "Ook had <b>[:nick]</b> een groot bakkes, [:hij:zij:] schreeuwde <b>[:p
 shout3 = "Hmm niet veel geschreeuw hier, wat een zelfbeheersing :)."
 
 allcaps1 = "Het lijkt dat <b>[:nick]</b>'s [:zijn:haar:] shift-key kapot is, met een CAPS-percentage van <b>[:per]%</b>."
-allcaps2 = "Ook <b>[:nick]</b> is het niet gelukt om [:zijn:haar:] Caps-Lock onder controle te krijgen, <b>[:per]%</b> CAPS."
+allcaps2 = "Ook <b>[:nick]</b> is het niet gelukt om [:zijn:haar:] Caps Lock onder controle te krijgen, <b>[:per]%</b> CAPS."
 allcaps3 = "Iedereen had het hoofdletter gebruik onder de knie :)."
 allcapstext = "<b>Bijvoorbeeld zoals dit:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -1435,7 +1435,7 @@ shout2 = "Een andere <i>beruchte schreeuwer</i> was <b>[:nick]</b>, die schreeuw
 shout3 = "Er schreeuwde helemaal niemand, wow."
 
 allcaps1 = "Het schijnt dat <b>[:nick]</b>'s shift-toets blijft hangen:  [:per]% van de tijd schreef [:hij:zij:] IN HOOFDLETTERS."
-allcaps2 = "<b>[:nick]</b> vergat gewoon [:zijn:haar:] Caps-Lock uit te zetten.  [:Hij:Zij:] schreef IN HOOFDLETTERS [:per]% van de tijd."
+allcaps2 = "<b>[:nick]</b> vergat gewoon [:zijn:haar:] Caps Lock uit te zetten.  [:Hij:Zij:] schreef IN HOOFDLETTERS [:per]% van de tijd."
 allcaps3 = "Iedereen had hun shift-toets onder controle.  :)"
 allcapstext = "<b>Zoals dit bijvoorbeeld:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -1869,7 +1869,7 @@ show_wpl = "Sanaa rivillä"
 show_cpl = "Merkkiä rivillä"
 show_lastseen = " Viimeksi paikalla"
 lastused = "Viimeksi maininnut"
-lastseen1 = "Eilen" 
+lastseen1 = "Eilen"
 lastseen2 = "[:days] päivää sitten"
 today = "Tänään"
 karma = "Karma"
@@ -1943,13 +1943,13 @@ shout2 = "Naziv <i>Hripav cucek</i> pa dobi: <b>[:nick]</b>, ki je z nami [:deli
 shout3 = "Nihce ni nikoli krical."
 
 allcaps1 = " <b>[:nick]</b> je [:imel:imela:] zataknjeno tipko shift:  [:per]% svojega pisanja je [:pisal:pisalaa:] z VELIKIMI CRKAMI!"
-allcaps2 = "<b>[:nick]</b> je [:pozabil:pozabila:] ponovno pritisniti svojo Caps-Lock tipko. Z VELIKIMI CRKAMI je [:pisal:pisala:] kar [:per]% svojega besedicenja na kanalu."
+allcaps2 = "<b>[:nick]</b> je [:pozabil:pozabila:] ponovno pritisniti svojo Caps Lock tipko. Z VELIKIMI CRKAMI je [:pisal:pisala:] kar [:per]% svojega besedicenja na kanalu."
 allcaps3 = "Vsi so imeli svojo shift tipko pod kontrolo.  :)"
 allcapstext = "<b>Ce si pogledamo tale primer:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 
 violent1 = "<b>[:nick]</b> je zelo [:agresiven:agresivna:]. <b>[:attacks]</b>-krat je [:napadel:napadla:] druge ljudi na kanalu."
-violent2 = "<b>[:nick]</b> tudi ni [:znal:znala:] kontorlirati svoje jeze. Na druge se je [:spravil:spravila:] <b>[:attacks]</b>-krat!" 
+violent2 = "<b>[:nick]</b> tudi ni [:znal:znala:] kontorlirati svoje jeze. Na druge se je [:spravil:spravila:] <b>[:attacks]</b>-krat!"
 violent3 = "Nihce ni nikogar napadel.  Vsi so bili prijazni."
 violenttext = "<b>Vzemimo primer:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -2113,7 +2113,7 @@ shout2 = "A masik <i>nagyhangu</i> <b>[:nick]</b> volt, aki [:per]%-ban volt han
 shout3 = "Senki sem kiabalt."
 
 allcaps1 = "Ugy tunik <b>[:nick]</b> shift-gombja beragadt:  [:per]%-ban NAGY BETUVEL irt."
-allcaps2 = "<b>[:nick]</b> is elfelejtette neha kikapcsoli a Caps-Lockot. [:per]%-ban NAGYBETUZOTT."
+allcaps2 = "<b>[:nick]</b> is elfelejtette neha kikapcsoli a Caps Lockot. [:per]%-ban NAGYBETUZOTT."
 allcaps3 = "Mindenki ugyelt a shiftre."
 allcapstext = "<b>Peldaul:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -2283,7 +2283,7 @@ shout2 = "Teine kõvema häälega tüüp oli <b>[:nick]</b>, tema valju hääle osakaal
 shout3 = "Lahe! Kõik rääkisid vaikse häälega."
 
 allcaps1 = "Tundub et <b>[:nick]</b> shift'i nupp vajub iseenesest alla: [:per]% ajast kirjutas SUURTE TÄHTEDEGA."
-allcaps2 = "<b>[:nick]</b> unustas oma Caps-Lock'i peale. [:per]% ajast kirjutas SUURTE TÄHTEDEGA."
+allcaps2 = "<b>[:nick]</b> unustas oma Caps Lock'i peale. [:per]% ajast kirjutas SUURTE TÄHTEDEGA."
 allcaps3 = "Kõik kirjutasid väikeste tähtedega.  :)"
 allcapstext = "<b>Nagu näiteks:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -2777,7 +2777,7 @@ action3 = "Ingen action på [:channel]!"
 actiontext = "<b>For eksempel slik:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 question1 = "Er <b>[:nick]</b> dum, eller stiller [:han:hun:] bare mange spørsmål?  [:per]% linjer med spørsmål!"
-question2 = "<b>[:nick]</b> spør også mye.  [:per]% av [:hans:hennes:] linjer er spørsmål!" 
+question2 = "<b>[:nick]</b> spør også mye.  [:per]% av [:hans:hennes:] linjer er spørsmål!"
 question3 = "Ingen på denne kanalen stillte spørsmål. Jøss."
 
 shout1 = "Den mest bråkete er <b>[:nick]</b>, som bråkte [:per]% av tiden!"
@@ -2785,7 +2785,7 @@ shout2 = "En annen <i>bråkmaker</i> er <b>[:nick]</b>, som skrek [:per]% av tide
 shout3 = "Ingen bråker på denne kanalen."
 
 allcaps1 = "Det ser ut som <b>[:nick]</b>s shift-tast henger:  [:per]% av tiden skrev [:han:hun:]  STORE BOKSTAVER."
-allcaps2 = "<b>[:nick]</b> glemte nok å skru av Caps-Lock.  [:Han:Hun:] skrev STORE BOKSTAVER [:per]% av tiden."
+allcaps2 = "<b>[:nick]</b> glemte nok å skru av Caps Lock.  [:Han:Hun:] skrev STORE BOKSTAVER [:per]% av tiden."
 allcaps3 = "Alle hadde caps lock under kontroll. Kjekt.  :)"
 allcapstext = "<b>For eksempel slik:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -2842,7 +2842,7 @@ month = "januar februar mars april may juni juli august september oktober novemb
 day = "søndag mandag tirsdag onsdag torsdag fredag lørdag"
 
 names1 = "nicks"
-names2 = "nick" 
+names2 = "nick"
 gender = "kjønn"
 gender_f = "hun"
 gender_m = "han"
@@ -2852,7 +2852,7 @@ gender_b = "bot"
 
 smileytopic = "Smileys :-)"
 chartstopic = "Musikk Liste"
-mostnickstopic = "Brukere med flest nicks" 
+mostnickstopic = "Brukere med flest nicks"
 bignumtopic = "Store tall"
 othernumtopic = "Andre interessante tall"
 latesttopic = "Siste topics"
@@ -2926,7 +2926,7 @@ activenickstopic = "Pessoas que mais falam"
 activenickbyhourtopic = "Pessoal que mais falam por hora"
 activetimestopic = "Horas mais frequentadas"
 allcaps1 = "Aparentemente a tecla shift do <b>[:nick]</b> está presa: <b>[:per]%</b> do tempo [:ele:ela:] escreveu com CAPS."
-allcaps2 = "<b>[:nick]</b> se esqueceu de desativar seu Caps-Lock. [:Ele:Ela:] escreveu com CAPS <b>[:per]%</b> do tempo."
+allcaps2 = "<b>[:nick]</b> se esqueceu de desativar seu Caps Lock. [:Ele:Ela:] escreveu com CAPS <b>[:per]%</b> do tempo."
 allcaps3 = "Todo mundo manteve sua tecla shift sobre controle :)"
 allcapstext = "<b>Por exemplo:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 and = "e"
@@ -3069,7 +3069,7 @@ mosthalfop2 = "<b>[:nick]</b> da cok nazik idi: [:halfops] den halfop [:him:her:
 mosthalfop3 = "Tuhaf,hiç halfop verilmedi [:channel]!"
 
 mostdehalfop1 = "<b>[:nick]</b> kanal serifi [:dehalfops] dehalfops ile."
-mostdehalfop2 = "<b>[:nick]</b> dehalfoplandi [:dehalfops] users." 
+mostdehalfop2 = "<b>[:nick]</b> dehalfoplandi [:dehalfops] users."
 mostdehalfop3 = "Wow, kimsenin halfopu alınmadı [:channel]!"
 
 mostvoice1 = "<b>[:nick]</b> TAM [:voices] kere kanalda + verdi..."
@@ -3094,13 +3094,13 @@ shout2 = "Bagirmada <i>eski rekortmen</i> <b>[:nick]</b>, [:per]% gibi bir kisim
 shout3 = "Kanalda kimse bagirmiyor...Süper!"
 
 allcaps1 = "Sanirim <b>[:nick]</b>'in SHIFT tusu basili kalmis: yazdiklarinin [:per]% gibi bir kismi BUYUK HARF."
-allcaps2 = "<b>[:nick]</b> Caps-Lock tusunu kapamayi unutmus. [:per]% ortalama ile BUYUK HARF yaziyor."
+allcaps2 = "<b>[:nick]</b> Caps Lock tusunu kapamayi unutmus. [:per]% ortalama ile BUYUK HARF yaziyor."
 allcaps3 = "Herkes SHIFT tusunu kontrol altinda tutuyor... :)"
 allcapstext = "<b>Mesela:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 
 violent1 = "<b>[:nick]</b> tam bir manyak. Digerlerine tam <b>[:attacks]</b> defa saldirdi."
-violent2 = "<b>[:nick]</b> cok agresif... Digerlerine <b>[:attacks]</b>defa saldirdi." 
+violent2 = "<b>[:nick]</b> cok agresif... Digerlerine <b>[:attacks]</b>defa saldirdi."
 violent3 = "Herkes birbirini cok seviyor. "
 violenttext = "<b>Mesela:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -3197,7 +3197,7 @@ lastseen2 = "[:days] gün önce"
 today = "Bugun"
 pagetitle1 = "[:network]'te [:channel] istatistikleri. Yonetici: [:maintainer]"
 pagetitle2 = "istatistikler asagidaki zaman dilimini kapsar "
-pagetitle3 = "[:days] gunluk periyotta, toplam <b>[:nicks]</b> farkli rumuz [:channel] kanalinda bulundu." 
+pagetitle3 = "[:days] gunluk periyotta, toplam <b>[:nicks]</b> farkli rumuz [:channel] kanalinda bulundu."
 stats_gen_by = "Istatistikler [:pisg_url] v[:version] tarafindan yaratilmistir."
 author = "pisg'i yazan: [:author_url] ve digerleri"
 stats_gen_in = "Istatistikler [:time] icinde yaratildi"
@@ -3265,7 +3265,7 @@ shout2 = "Alt excitat a fost <b>[:nick]</b>, care a strigat doar [:per]% din tim
 shout3 = "Nimeni nu a strigat, wow."
 
 allcaps1 = "Se pare ca tasta SHIFT a lui <b>[:nick]</b> e blocata: [:per]% din linii le-a scris cu LITERE MARI!"
-allcaps2 = "<b>[:nick]</b> a uitat sa-si dezactiveze Caps-Lockul.  A scris doar [:per]% din linii cu CAPS."
+allcaps2 = "<b>[:nick]</b> a uitat sa-si dezactiveze Caps Lockul.  A scris doar [:per]% din linii cu CAPS."
 allcaps3 = "Nimeni n-a scris cu litere mari."
 allcapstext = "<b>De exemplu:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -3428,7 +3428,7 @@ shout2 = "Annar <i>öskrari</i> var <b>[:nick]</b>, sem öskraği [:per]% af tímanu
 shout3 = "Enginn öskraği á rásinni"
 
 allcaps1 = "Şağ lítur út fyrir ağ shift-takkinn hjá <b>[:nick]</b> sé fastur: [:per]% af tímanum skrifaği [:hann:hún:] meğ HÁSTÖFUM."
-allcaps2 = "<b>[:nick]</b> gleymdi ağ taka Caps-Lock af hjá sér. [:Hann:Hún:] skrifaği meğ HÁSTÖFUM [:per]% af tímanum."
+allcaps2 = "<b>[:nick]</b> gleymdi ağ taka Caps Lock af hjá sér. [:Hann:Hún:] skrifaği meğ HÁSTÖFUM [:per]% af tímanum."
 allcaps3 = "Allir höfğu stjórn á shift takkanum sínum."
 allcapstext = "<b>Til dæmis svona:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -3577,7 +3577,7 @@ shout2 = "Jiná <i>stará mluvka</i> byl <b>[:nick]</b>, kterej tu zdùrazòoval [:p
 shout3 = "Nikdo tu na <b>!</> ani nešáhl, wow."
 
 allcaps1 = "Vypadá to, e <b>[:nick]</b> drel svuj SHIFT [:per]% celeho èasu co psal(a)."
-allcaps2 = "<b>[:nick]</b> pravì zapomel vypnout svùj Caps-Lock. [:Napsal:a:] VELKİM [:per]% of the time."
+allcaps2 = "<b>[:nick]</b> pravì zapomel vypnout svùj Caps Lock. [:Napsal:a:] VELKİM [:per]% of the time."
 allcaps3 = "Kadej mìl svùj shift-key pod kontrolou.  :)"
 allcapstext = "<b>Napriklad:</b>&nbsp;[:line]"
 
@@ -3746,7 +3746,7 @@ shout2 = "Druh[:ı:á:] najstarš[:í:ia:] krik¾úò[::ka:] bol[::a:] <b>[:nick]</b> s
 shout3 = "Nikdo tu nekrièal, wow :)."
 
 allcaps1 = "Vyzerá, e <b>[:nick]</b> mal[::a:] stlaèenı CAPS LOCK [:per]% èasu."
-allcaps2 = "<b>[:nick]</b> tie zabud[:ol:la:] vypnú svoj Caps-Lock. Písal[::a:] VELKİM [:per]% èasu."
+allcaps2 = "<b>[:nick]</b> tie zabud[:ol:la:] vypnú svoj Caps Lock. Písal[::a:] VELKİM [:per]% èasu."
 allcaps3 = "Všetci mali svoj shift pod kontrolou.  :)"
 allcapstext = "<b>Napríklad:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -3915,7 +3915,7 @@ shout2 = "Åù¸ îäíèì <i>ñòàğûì êğèêóíîì</i> áûë <b>[:nick]</b>, - êğè÷àë [:per]% 
 shout3 = "Âàó, íèêòî òóò íå îğàë ñîâñåì."
 
 allcaps1 = "Ïîõîæå, êëàâèøà Shift ó <b>[:nick]</b>çàïàëà:  [:per]% âğåìåíè îí(à) ïèñàë(à) ÁÎËÜØÈÌÈ ÁÓÊÂÀÌÈ."
-allcaps2 = "<b>[:nick]</b> ïğîñòî çàáûë(à) îòêëş÷èòü ñâîé Caps-Lock.  Ïèñàë(à) ÁÎËÜØÈÌÈ ÁÓÊÂÀÌÈ [:per]% âğåìåíè."
+allcaps2 = "<b>[:nick]</b> ïğîñòî çàáûë(à) îòêëş÷èòü ñâîé Caps Lock.  Ïèñàë(à) ÁÎËÜØÈÌÈ ÁÓÊÂÀÌÈ [:per]% âğåìåíè."
 allcaps3 = "Ó âñåõ êëàâèøà Shift áûëà ïîä êîíòğîëåì.  :)"
 allcapstext = "<b>Íàïğèìåğ, âîò òàê:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -4104,7 +4104,7 @@ kicktext = "<b>Ãéá ğáñÜäåéãìá:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 joins = "Ï/ç <b>[:nick]</b> äåí ìğïñïıóå íá áğïöáóßóåé áí èá ìåßíåé Ş èá öıãåé áğü ôï êáíÜëé, ìğáßíïíôáò [:joins] öïñİò óå áõôü."
 
-kick1 = "<b>[:nick]</b>: äéêáéïóıíç Ş ğáñÜíïéá; ĞÜíôùò İêáíå kick óå [:kicked] Üôïìá." 
+kick1 = "<b>[:nick]</b>: äéêáéïóıíç Ş ğáñÜíïéá; ĞÜíôùò İêáíå kick óå [:kicked] Üôïìá."
 kick2 = "Óôç äåıôåñç èİóç, ï/ç <b>[:nick]</b> İêáíå kick óå [:kicked] Üôïìá."
 kick3 = "Åäş ôá ğñÜãìáôá åßíáé ìÜëëïí ÷áëáñÜ! Êáíİíáò äåí İêáíå kicks :)"
 
@@ -4246,14 +4246,14 @@ action3 = "àéï 'à÷ùğéí' áòøåõ [:channel]!"
 actiontext = "<b>ìãåâîà, ëîå æä:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 question1 = "äàí <b>[:nick]</b> [:èéôù:èéôùä:] àå ñúí [:ùåàì:ùåàìú:] îìéåï ùàìåú? [:per]% ùåøåú äëéìå ùàìä!"
-question2 = "âí <b>[:nick]</b> ìà [:éãò:éãòä:] äøáä.  [:per]% îäùåøåú [:ùìå:ùìä:] äéå ùàìåú." 
+question2 = "âí <b>[:nick]</b> ìà [:éãò:éãòä:] äøáä.  [:per]% îäùåøåú [:ùìå:ùìä:] äéå ùàìåú."
 question3 = "àó àçã ìà ùàì ëàï ùàìåú; òøåõ ùì âàåğéí?"
 
 shout1 = "äëé [:øåòù:øåòùú:] [:äéä:äééúä:] <b>[:nick]</b>, [:ùöò÷:ùöò÷ä:] [:per]% îäæîï!"
 shout2 = "îúçøä òì äëáåã ìúåàø [:äéä:äééúä:] <b>[:nick]</b>, [:ùöò÷:ùöò÷ä:] [:per]% îäæîï!"
 shout3 = "ëåìğå øâåòéí áòøåõ äæä? àó àçã ìà öò÷!"
 
-allcaps1 = "ğøàä ùäùéôè ùì <b>[:nick]</b> ÷öú ú÷åò:  [:per]% îäæîï [:äåà:äéà:] ëúá/ä áàåúéåú <b>âãåìåú</b>." 
+allcaps1 = "ğøàä ùäùéôè ùì <b>[:nick]</b> ÷öú ú÷åò:  [:per]% îäæîï [:äåà:äéà:] ëúá/ä áàåúéåú <b>âãåìåú</b>."
 allcaps2 = "<b>[:nick]</b> ôùåè [:ùëç:ùëçä:] ìëáåú àú ä CapsLock [:ùìå:ùìä:]. [:äåà:äéà:] [:ëúá:ëúáä:] áàåúéåú âãåìåú [:per]% îäæîï."
 allcaps3 = "ëåìí ùîøå òì äùéôè ùìäí úçú ùìéèä  :)"
 allcapstext = "<b>ìãåâîà, ëîå æä:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
@@ -4423,7 +4423,7 @@ shout2 = "Äğóãèÿ <i>êàâãàäæèÿ</i> áåøå <b>[:nick]</b>, êîéòî âèêàøå ïğåç [:per]%
 shout3 = "Íèêîé íå å ïîâèøàâàë òîí, óàó."
 
 allcaps1 = "Èçãëåæäà shift-à íà <b>[:nick]</b> çàÿæäà: [:per]% îò âğåìåòî ïèñà ñ ÃËÀÂÍÈ ÁÓÊÂÈ."
-allcaps2 = "<b>[:nick]</b> ïğîñòî çàáğàâè äà èçêëş÷è Caps-Lock-à ñè. [:Òîé:Òÿ:] ïèñà ñ ÃËÀÂÍÈ ÁÓÊÂÈ [:per]% îò âğåìåòî."
+allcaps2 = "<b>[:nick]</b> ïğîñòî çàáğàâè äà èçêëş÷è Caps Lock-à ñè. [:Òîé:Òÿ:] ïèñà ñ ÃËÀÂÍÈ ÁÓÊÂÈ [:per]% îò âğåìåòî."
 allcaps3 = "Âñè÷êè êîíòğîëèğàò shift-a ñè.  :)"
 allcapstext = "<b>Åòî íàïğèìåğ:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -4594,7 +4594,7 @@ shout2 = "Ğ”Ñ€ÑƒĞ³Ğ¸ <i>Ğ³Ğ°Ğ»Ğ°Ğ¼ÑŸĞ¸Ñ˜Ğ°</i> Ñ˜Ğµ Ğ±Ğ¸Ğ¾ <b>[:nick]</b>, ĞºĞ¾Ñ
 shout3 = "ĞĞ¸ĞºĞ¾ Ğ½Ğ¸Ñ˜Ğµ Ğ±Ğ¸Ğ¾ Ğ³Ğ»Ğ°ÑĞ°Ğ½."
 
 allcaps1 = "Ğ˜Ğ·Ğ³Ğ»ĞµĞ´Ğ° Ğ´Ğ° ÑĞµ <b>[:nick]</b>-Ñƒ Ğ·Ğ°Ğ³Ğ»Ğ°Ğ²Ğ¸Ğ¾ ÑˆĞ¸Ñ„Ñ‚:  [:per]% Ğ²Ñ€ĞµĞ¼ĞµĞ½Ğ° Ñ˜Ğµ Ğ¿Ğ¸ÑĞ°Ğ¾ Ğ’Ğ•Ğ›Ğ˜ĞšĞ˜Ğœ Ğ¡Ğ›ĞĞ’Ğ˜ĞœĞ."
-allcaps2 = "<b>[:nick]</b> Ñ˜Ğµ Ğ·Ğ°Ğ±Ğ¾Ñ€Ğ°Ğ²Ğ¸Ğ¾ Ğ´Ğ° ÑƒĞ³Ğ°ÑĞ¸ [:his:her:] Caps-Lock. ĞšÑƒÑ†Ğ°Ğ¾ Ñ˜Ğµ Ğ’Ğ•Ğ›Ğ˜ĞšĞ˜Ğœ Ğ¡Ğ›ĞĞ’Ğ˜ĞœĞ [:per]% Ğ²Ñ€ĞµĞ¼ĞµĞ½Ğ° Ğ¿Ñ€Ğ¾Ğ²ĞµĞ´ĞµĞ½Ğ¾Ğ³ Ğ½Ğ° ĞºĞ°Ğ½Ğ°Ğ»Ñƒ."
+allcaps2 = "<b>[:nick]</b> Ñ˜Ğµ Ğ·Ğ°Ğ±Ğ¾Ñ€Ğ°Ğ²Ğ¸Ğ¾ Ğ´Ğ° ÑƒĞ³Ğ°ÑĞ¸ [:his:her:] Caps Lock. ĞšÑƒÑ†Ğ°Ğ¾ Ñ˜Ğµ Ğ’Ğ•Ğ›Ğ˜ĞšĞ˜Ğœ Ğ¡Ğ›ĞĞ’Ğ˜ĞœĞ [:per]% Ğ²Ñ€ĞµĞ¼ĞµĞ½Ğ° Ğ¿Ñ€Ğ¾Ğ²ĞµĞ´ĞµĞ½Ğ¾Ğ³ Ğ½Ğ° ĞºĞ°Ğ½Ğ°Ğ»Ñƒ."
 allcaps3 = "Ğ¡Ğ²Ğ¸ ÑÑƒ Ğ¸Ğ¼Ğ°Ğ»Ğ¸ ÑĞ²Ğ¾Ñ˜Ñƒ ÑˆĞ¸Ñ„Ñ‚ Ñ‚Ğ¸Ğ¿ĞºÑƒ Ğ¿Ğ¾Ğ´ ĞºĞ¾Ğ½Ñ‚Ñ€Ğ¾Ğ»Ğ¾Ğ¼  :)"
 allcapstext = "<b>ĞĞ° Ğ¿Ñ€Ğ¸Ğ¼ĞµÑ€:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -4763,7 +4763,7 @@ shout2 = "Drugi <i>galamdÅ¾ija</i> je bio <b>[:nick]</b>, koji je vikao [:per]% 
 shout3 = "Niko nije bio glasan."
 
 allcaps1 = "Izgleda da se <b>[:nick]</b>-u zaglavio Å¡ift:  [:per]% vremena je pisao VELIKIM SLOVIMA."
-allcaps2 = "<b>[:nick]</b> je zaboravio da ugasi [:his:her:] Caps-Lock. Kucao je VELIKIM SLOVIMA [:per]% vremena provedenog na kanalu."
+allcaps2 = "<b>[:nick]</b> je zaboravio da ugasi [:his:her:] Caps Lock. Kucao je VELIKIM SLOVIMA [:per]% vremena provedenog na kanalu."
 allcaps3 = "Svi su imali svoju Å¡ift tipku pod kontrolom  :)"
 allcapstext = "<b>Na primer:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
@@ -4933,8 +4933,8 @@ shout2 = "Një tjetër<i>gërthitës</i> ishte <b>[:nick]</b>, ulëriti [:per]% të ko
 shout3 = "Wow, asnjë nuk bërtiti."
 
 allcaps1 = "Më duket se tasti Shift i <b>[:nick]</b> ka ngecur:  [:per]% të kohës së [:tij:saj:] shkruajti me GËRMA TË MËDHA."
-allcaps2 = "<b>[:nick]</b> vetëm sa harroi të çaktivizojë Caps-Lock e [:tij:saj:].  [:Ai:Ajo:] shkruajti ME TË MADHE [:per]% të kohës."
-allcaps3 = "Të gjithë e kishin nën kontroll tastin Caps-Lock.  :)"
+allcaps2 = "<b>[:nick]</b> vetëm sa harroi të çaktivizojë Caps Lock e [:tij:saj:].  [:Ai:Ajo:] shkruajti ME TË MADHE [:per]% të kohës."
+allcaps3 = "Të gjithë e kishin nën kontroll tastin Caps Lock.  :)"
 allcapstext = "<b>Përshembull, si kjo:</b><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[:line]"
 
 violent1 = "<b>[:nick]</b> është një person i dhunshëm.  [:Ai:Ajo:] sulmoi të tjerët <b>[:attacks]</b> herë."
